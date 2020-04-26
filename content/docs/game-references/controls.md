@@ -10,7 +10,7 @@ Example
 
 ``` lua
 -- checks if INPUT_CONTEXT has just been released
-if IsControlJustReleased(1--[[input group]],  51--[[control index]]) then
+if IsControlJustReleased(1--[[99]],  1--[[control index]]) then
     -- run code here
 end
 ```
